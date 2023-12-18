@@ -16,9 +16,9 @@ public class LinearEq{
 		double x = ((c-b)/a);
 
 		//Printing the formula with given values
-		System.out.println(a +" * X + " +b +" = " +c);
+		System.out.println(a +" * x + " +b +" = " +c);
 
 		//Priting the Answer
-		System.out.println("X = " +x);
+		System.out.println("x = " +x);
 	}
 }
