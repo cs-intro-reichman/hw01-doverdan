@@ -2,7 +2,6 @@
  * Generates three random integers, each in a given range [a,b),
  * prints them, and then prints the minimal number that was generated.
  */
-import java.util.Random;
 
 public class Gen3{
 	public static void main(String[] args) {
